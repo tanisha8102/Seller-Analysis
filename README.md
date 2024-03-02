@@ -5,3 +5,5 @@ This project focuses on sanitizing and analyzing a dataset to profile sellers pr
 * Profiling of sellers based on various attributes such as sales performance, customer ratings, product diversity, etc.
 * Development of selection criteria using data-driven insights.
 * Recommendations for reaching out to and acquiring the most promising sellers.
+## Dataset
+Sample_Longlist_Data
